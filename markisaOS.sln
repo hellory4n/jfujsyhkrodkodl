@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Markisa", "Markisa\Markisa.shproj", "{A0CDBD0E-3A41-42B7-9425-A838BC2C7383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Markisa.Desktop", "Markisa.Desktop\Markisa.Desktop.csproj", "{7EF31DB3-0C57-4D4A-9D23-D46925FBC375}"
+EndProject
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EF31DB3-0C57-4D4A-9D23-D46925FBC375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF31DB3-0C57-4D4A-9D23-D46925FBC375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EF31DB3-0C57-4D4A-9D23-D46925FBC375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EF31DB3-0C57-4D4A-9D23-D46925FBC375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15DC94A8-384E-44F8-A504-9BF009A23D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15DC94A8-384E-44F8-A504-9BF009A23D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15DC94A8-384E-44F8-A504-9BF009A23D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15DC94A8-384E-44F8-A504-9BF009A23D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
