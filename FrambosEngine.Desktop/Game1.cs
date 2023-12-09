@@ -2,7 +2,7 @@
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
-namespace Markisa.Desktop;
+namespace FrambosEngine.Desktop;
 
 public class Game1 : Game
 {
