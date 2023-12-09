@@ -1,22 +1,19 @@
-﻿namespace MarkisaOS;
-using FrambosEngine;
-using static FrambosEngine.Frambos;
+﻿namespace FrambosEngine;
+using static Frambos;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 
-public class Game1 : Game {
+public class Engine : Game {
     private GraphicsDeviceManager _graphics;
     private SpriteBatch _spriteBatch;
 
-    public Game1() {
+    public Engine() {
         _graphics = new GraphicsDeviceManager(this);
         Content.RootDirectory = "Content";
         IsMouseVisible = true;
     }
 
     protected override void Initialize() {
-        // TODO: Add your initialization logic here
-        log("calling engine from game");
         base.Initialize();
     }
 

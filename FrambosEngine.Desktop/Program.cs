@@ -1,2 +1,4 @@
-﻿using MarkisaOS.Game1 game = new();
+﻿using FrambosEngine;
+
+using Engine game = new();
 game.Run();
