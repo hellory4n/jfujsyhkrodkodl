@@ -1,3 +1,2 @@
-﻿
-using var game = new FrambosEngine.Desktop.Game1();
+﻿using MarkisaOS.Game1 game = new();
 game.Run();
