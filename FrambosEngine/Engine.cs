@@ -11,6 +11,7 @@ public class Engine : Game {
         _graphics = new GraphicsDeviceManager(this);
         Content.RootDirectory = "Content";
         IsMouseVisible = true;
+        setGraphicsDevice(_graphics);
     }
 
     protected override void Initialize() {
