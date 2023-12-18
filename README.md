@@ -1,3 +1,4 @@
+# note this was archived since i decided to use kotlin instead
 # MarkisaOS
 
 MarkisaOS is an awesome game where you use a computer to make a revolution and stuff.
